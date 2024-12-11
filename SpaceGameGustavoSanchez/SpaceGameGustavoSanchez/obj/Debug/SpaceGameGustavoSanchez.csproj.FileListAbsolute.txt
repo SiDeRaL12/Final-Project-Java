@@ -1,0 +1,57 @@
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.AssemblyReference.cache
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.baml
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.g.cs
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\App.g.cs
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_Content.g.cs
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_MarkupCompile.cache
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.g.resources
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.Properties.Resources.resources
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.GenerateResource.cache
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe.config
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.pdb
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.pdb
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.baml
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.g.cs
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.baml
+C:\Users\HP OMEN\source\repos\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe.config
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.pdb
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.AssemblyReference.cache
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.baml
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.baml
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.baml
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\App.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_Content.g.cs
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_MarkupCompile.cache
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.g.resources
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.Properties.Resources.resources
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.GenerateResource.cache
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.CoreCompileInputs.cache
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\000486822\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.pdb
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe.config
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\bin\Debug\SpaceGameGustavoSanchez.pdb
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.AssemblyReference.cache
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.baml
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.baml
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.baml
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\GameOverDialog.g.cs
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\MainWindow.g.cs
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\PlayerName.g.cs
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\App.g.cs
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_Content.g.cs
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez_MarkupCompile.cache
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.g.resources
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.Properties.Resources.resources
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.GenerateResource.cache
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.exe
+C:\Users\HP OMEN\Desktop\SpaceGameGustavoSanchez\SpaceGameGustavoSanchez\obj\Debug\SpaceGameGustavoSanchez.pdb
